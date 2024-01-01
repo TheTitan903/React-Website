@@ -1,0 +1,14 @@
+.events{
+    position: relative;
+    top: 100px;
+}
+.heading{
+    text-align: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.para{
+    text-align: center;
+}

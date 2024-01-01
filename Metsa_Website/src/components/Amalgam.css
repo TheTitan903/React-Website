@@ -1,0 +1,18 @@
+.amalgam{
+    position: relative;
+    top: 100px;
+}
+.heading{
+    text-align: center;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+.image>img{
+    width: 100px;
+    height: 100px;
+}
+.para{
+    text-align: center;
+}

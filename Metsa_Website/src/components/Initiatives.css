@@ -1,0 +1,18 @@
+.initiatives{
+    position: relative;
+    top: 100px;
+}
+.heading{
+    text-align: center;
+}
+.image2{
+    display: flex;
+    justify-content: center;
+}
+.image2>img{
+    width: 1000px;
+    height: 500px;
+}
+.para{
+    text-align: center;
+}
